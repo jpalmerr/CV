@@ -95,7 +95,7 @@ I am currently working towards certification in courses:
  - [Udacity Course](https://eu.udacity.com/course/intro-to-machine-learning--ud120) to better understand Machine Learning, applying key statistical principles such as Bayes Theorem. 
  - [Coursera Course](https://www.coursera.org/learn/scala-spark-big-data/home/welcome) to learn [Spark](https://github.com/jpalmerr/Spark) in Scala.
  
- ## Other Programming 
+## Other Programming 
 
 #### Languages
 
@@ -136,35 +136,35 @@ I am currently working towards certification in courses:
  - Jasmine
  - Pytest
  
- #### Processors
+#### Processors
 
 - Microsoft Office, Latex, Markdown
  
- ## Personal
+## Personal
  
- #### Blog
+#### Blog
  - https://medium.com/@james6of1
  
- #### Sporting Achievements
- ###### Tennis
+#### Sporting Achievements
+###### Tennis
  - Yorkshire representative representing u12-16 level.
  - Competed in County Cup, finishing 4th in the nation.
  - Invited to and perfomed in national talent evaluation programs.
- ###### Soccer
+###### Soccer
  - Member of East Riding Representatives (regional) side u13-18
  - Member of Hull representatives (city) u14-16
  - East Riding u13s manager. Highlights include a national cup semi final. Responsibilies such as 
     - Arranging friendly fixtures
     - Safeguarding children
     - Submitting result reports
- ###### Cricket 
+###### Cricket 
  - East Yorkshire (county) representative u13-17 
  
- #### Extra Curricular
+#### Extra Curricular
  
- ###### Sports Journalism
+###### Sports Journalism
   A personal hobby of mine is to write about sport, particularly football. I have written on sites such as SB Nation, and I use my [Medium](https://medium.com/@james6of1).
- ###### Football Coaching
+###### Football Coaching
  My role as the football coach of my local county representative side, a team I previously played for, has been a particularly rewarding process. Passing down my personal experience whilst also creating a positive atmosphere has in return taught myself a lot, improving my communication skills and providing experience of working with a range of capabilties and personalities.
- ###### Mental and Physical Health
+###### Mental and Physical Health
  Mental health and well-being are topics particularly important to me. I have experimented with a variety of different techniques, with meditation proving very beneficial. I believe in healthy eating, using cooking as a way to unwind, and sport as a way to exercise, socialise and communicate. In addition to this I am a keen runner.
