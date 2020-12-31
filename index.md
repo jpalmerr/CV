@@ -136,7 +136,7 @@ I am currently working towards certification in courses:
  - Jasmine
  - Pytest
  
- #### Processors
+#### Processors
 
 - Microsoft Office, Latex, Markdown
  
