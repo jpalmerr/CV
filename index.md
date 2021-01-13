@@ -2,7 +2,7 @@
 
 [Functional Programming](#functional-programming) | [Experience](#experience) | [Education](#education) | [Projects](#projects) | [Other Programming](#other-programming) | [Personal](#personal)
  
-I am a Mathematics graduate, who moved into software after finding inspiration in the Computational Modelling section of my course. I have being working professionally as a back end Scala engineersince August 2019, a functional developer and machine learning enthusiast.
+I am a Mathematics graduate, who moved into software after finding inspiration in the Computational Modelling section of my course. A functional developer and machine learning enthusiast, I have been working professionally as a back end Scala engineer since August 2019.
 
 ## Functional Programming
 
