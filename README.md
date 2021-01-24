@@ -9,7 +9,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 ### Languages/Libraries
 
 - Scala
-  - Cats, Cats Effect IO, ZIO, Simulacrum, Refined, Monocle
+  - Cats, Cats Effect IO, Spark, ZIO, Simulacrum, Refined, Monocle
 - Elm
   - Reactor, Parcel
 - Scala JS
@@ -83,15 +83,9 @@ After enjoying the Computational Modelling section of my university course, I sp
 
 ###### Areas of Personal Interest
 
-External scala libraries
-  - ZIO
-  - Shapeless
-  - Monocle
-
-I am currently working towards certification in courses:
+Extra Courses: 
 
  - [The Data Science Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp)
- - [Haskell](https://www.udemy.com/course/learning-path-haskell-functional-programming-and-haskell/)
  - [Udacity Course](https://eu.udacity.com/course/intro-to-machine-learning--ud120) to better understand Machine Learning, applying key statistical principles such as Bayes Theorem. 
  - [Coursera Course](https://www.coursera.org/learn/scala-spark-big-data/home/welcome) to learn [Spark](https://github.com/jpalmerr/Spark) in Scala.
  
@@ -104,12 +98,6 @@ I am currently working towards certification in courses:
 - Ruby
 - Matlab
 - RStudio
-- Fortran
-- Java
-
-#### Project Management
-
-- Travis
 
 #### Front end & Frameworks
 
@@ -124,26 +112,11 @@ I am currently working towards certification in courses:
 - PSQL
 - SQL
 
-#### IDEs & Editors
-
-- Intellij, RubyMine, Eclipse
-- Sublime, Atom, Visual Studio
-
-#### Testing
-
- - Rspec
- - Capybara
- - Jasmine
- - Pytest
- 
 #### Processors
 
-- Microsoft Office, Latex, Markdown
+- Microsoft Office, Latex, Markdown, Google Docs
  
 ## Personal
- 
-#### Blog
- - https://medium.com/@james6of1
  
 #### Sporting Achievements
 ###### Tennis
