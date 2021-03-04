@@ -1,6 +1,6 @@
 # James Palmer
 
-[Functional Programming](#functional-programming) | [Experience](#experience) | [Education](#education) | [Projects](#projects) | [Other Programming](#other-programming) | [Personal](#personal)
+[Functional Programming](#functional-programming) | [Experience](#experience) | [Education](#education) | [Projects](#projects)
  
 I am a Mathematics graduate, who moved into software after finding inspiration in the Computational Modelling section of my course. A functional developer and machine learning enthusiast, I have been working professionally as a back end Scala engineer since August 2019.
 
@@ -27,20 +27,23 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 - AWS
 - Rabbit MQ
+- Kafka
 - Jenkins
 - Grafana
 - Kibana
 - OnboardHQ
 - Stripe
+- PSQL
 
 ## Experience 
 
 #### ITV (08/19 - present)
 
-My first project at ITV was to deliver a new microservice that applied treatments to images for the Hub, whilst also providing a UI for internal use. I was one of two working on this service. The stack included Elm and bleeding edge scala library, ZIO. The service was integrated into the existing architechture using Rabbit MQ.
+My first project at ITV was to deliver a new svg image rendering microservice for the Hub, whilst also providing a UI for internal use. The stack included Elm and bleeding edge scala library, ZIO and Rabbit MQ.
 
-After 5 months, I moved to the Britbox team.
-Here I was part of a small team that delivered a new subscription package using Stripe and implemented a number of third party billing integrations within our user-stack.  
+After 5 months, I moved to the SVOD team.
+Here I was part of a small team that delivered a new subscription package using Stripe and implemented a number of third party billing integrations.
+I also worked within our image stack, integrating services using Apache Kafka.
 
 Whilst at ITV, I received training. This included completing a 3 day workshop with Underscore's Dave Gurnell.
 
@@ -67,77 +70,6 @@ After enjoying the Computational Modelling section of my university course, I sp
  
 ## Projects
 
-| **Project Title** | **Description** | **Technologies** | **Testing** |
-| :---:        |     :---:      |      :---:    |     :---:      |
-| [Essential Scala Workshop](https://github.com/jpalmerr/essential-scala-code)| Whilst at ITV, I completed a 3 day workshop hosted by Underscore's Dave Gurnell  | Scala | Scala Test |
-| [Scala with Cats](https://github.com/jpalmerr/ScalaWithCats)| Working through Scala with Cats book  | Scala, Cats | - |
-| [Cats exercises](https://github.com/jpalmerr/scalaExercisesCats)| Completed Scala exercises for Cats  | Scala, Cats | - |
-| [TypeLevel Cats](https://github.com/jpalmerr/TypeLevel)| TypeLevels category theory exercises  | Scala, Cats | - |
-| [FP for Mortals with Cats](https://github.com/jpalmerr/FpForMortals)| Working through [FP book](https://leanpub.com/fpmortals-cats)  | Scala, Cats, Mouse, Simulacrum | - |
-| [Scala Shop](https://github.com/jpalmerr/shop) | Checkout Kata in Scala | Scala | Scala Test|
-| [Fruit Machine](https://github.com/jpalmerr/FruitMachine) | Fruit Machine Kata in Scala | Scala, Cats| Scala Test|
-| [Circe Exercises](https://github.com/jpalmerr/CirceExercises) | Completed Scala exercises for Circe | Scala, Circe, Monocle | - |
-| [AI Pictionary](https://github.com/jpalmerr/ajak-final-project)| An AI trained using neural networks to recognise a user's doodle and return a prediction, deployed [here](https://ajak-doodler.herokuapp.com/) | Python, SKlearn, TensorFlow, Keras, Javascript, jQuery, Flask, Travis, Heroku| Pytest, Capybara, Splinter|
-| [Project Euler](https://github.com/jpalmerr/Euler) | [Project Euler](https://projecteuler.net/archives) exercises | Scala | Scala Test|
-| [MAS3807 Project](https://www.slideshare.net/slideshow/embed_code/key/eY4WwFEd23HUkZ)| Assessed University Project on the effectiveness of differential methods | Fortran| Recieved a grade of 68.9%|
+I engage in multiple projects in my own time, notably working through Scala books. These projects can be found in my [github repos](https://github.com/jpalmerr?tab=repositories). I tend to focus on Cats and any libraries that can help me in my professional work. 
 
-###### Areas of Personal Interest
-
-Extra Courses: 
-
- - [The Data Science Course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp)
- - [Udacity Course](https://eu.udacity.com/course/intro-to-machine-learning--ud120) to better understand Machine Learning, applying key statistical principles such as Bayes Theorem. 
- - [Coursera Course](https://www.coursera.org/learn/scala-spark-big-data/home/welcome) to learn [Spark](https://github.com/jpalmerr/Spark) in Scala.
- 
-## Other Programming 
-
-#### Languages
-
-- Python
-  - SKlearn (Machine Learning Library)
-- Ruby
-- Matlab
-- RStudio
-
-#### Front end & Frameworks
-
-- JavaScript
-- Sinatra, RackUp
-- CSS, JQuery
-- Flask
-- Rails
-
-#### Databases
-
-- PSQL
-- SQL
-
-#### Processors
-
-- Microsoft Office, Latex, Markdown, Google Docs
- 
-## Personal
- 
-#### Sporting Achievements
-###### Tennis
- - Yorkshire representative representing u12-16 level.
- - Competed in County Cup, finishing 4th in the nation.
- - Invited to and perfomed in national talent evaluation programs.
-###### Soccer
- - Member of East Riding Representatives (regional) side u13-18
- - Member of Hull representatives (city) u14-16
- - East Riding u13s manager. Highlights include a national cup semi final. Responsibilies such as 
-    - Arranging friendly fixtures
-    - Safeguarding children
-    - Submitting result reports
-###### Cricket 
- - East Yorkshire (county) representative u13-17 
- 
-#### Extra Curricular
- 
-###### Sports Journalism
-  A personal hobby of mine is to write about sport, particularly football. I have written on sites such as SB Nation, and I use my [Medium](https://medium.com/@james6of1).
-###### Football Coaching
- My role as the football coach of my local county representative side, a team I previously played for, has been a particularly rewarding process. Passing down my personal experience whilst also creating a positive atmosphere has in return taught myself a lot, improving my communication skills and providing experience of working with a range of capabilties and personalities.
-###### Mental and Physical Health
- Mental health and well-being are topics particularly important to me. I have experimented with a variety of different techniques, with meditation proving very beneficial. I believe in healthy eating, using cooking as a way to unwind, and sport as a way to exercise, socialise and communicate. In addition to this I am a keen runner.
+A more in depth look at my CV can be found on my github [here](https://github.com/jpalmerr/CV).
