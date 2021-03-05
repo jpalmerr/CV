@@ -9,7 +9,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 ### Languages/Libraries
 
 - Scala
-  - Cats, Cats Effect IO, Spark, ZIO, Simulacrum, Refined, Monocle
+  - Cats, Cats Effect IO, ZIO, Simulacrum, Refined, Monocle
 - Elm
   - Reactor, Parcel
 - Scala JS
@@ -22,6 +22,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
   - Functional Database Layer
 - Pure Config
 - ScalaTest
+- Spark
 
 ### Project Tools
 
@@ -38,7 +39,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 #### ITV (08/19 - present)
 
-My first project at ITV was to deliver a new svg image rendering microservice for the Hub, whilst also providing a UI for internal use. The stack included Elm and bleeding edge scala library, ZIO and Rabbit MQ.
+My first project at ITV was to deliver a new svg image rendering microservice for the Hub, whilst also providing a UI for internal use. The stack included Elm, bleeding edge scala library, ZIO and Rabbit MQ.
 
 After 5 months, I moved to the SVOD team.
 Here I was part of a small team that delivered a new subscription package using Stripe and implemented a number of third party billing integrations.
@@ -72,15 +73,14 @@ After enjoying the Computational Modelling section of my university course, I sp
 | **Project Title** | **Description** | **Technologies** | **Testing** |
 | :---:        |     :---:      |      :---:    |     :---:      |
 | [Essential Scala Workshop](https://github.com/jpalmerr/essential-scala-code)| Whilst at ITV, I completed a 3 day workshop hosted by Underscore's Dave Gurnell  | Scala | Scala Test |
-| [Scala with Cats](https://github.com/jpalmerr/ScalaWithCats)| Working through Scala with Cats book  | Scala, Cats | - |
+| [Scala with Cats](https://github.com/jpalmerr/ScalaWithCats)| Scala with Cats book  | Scala, Cats | - |
 | [Cats exercises](https://github.com/jpalmerr/scalaExercisesCats)| Completed Scala exercises for Cats  | Scala, Cats | - |
 | [TypeLevel Cats](https://github.com/jpalmerr/TypeLevel)| TypeLevels category theory exercises  | Scala, Cats | - |
-| [Essential Effects](https://github.com/jpalmerr/EssentialEffects) | Cats Effect | Scala, Cats, Cats Effect| - |
-| [FP for Mortals with Cats](https://github.com/jpalmerr/FpForMortals)| Working through [FP book](https://leanpub.com/fpmortals-cats)  | Scala, Cats, Mouse, Simulacrum | - |
+| [Essential Effects](https://github.com/jpalmerr/EssentialEffects) | Working through Cats Effect | Scala, Cats, Cats Effect| - |
+| [FP for Mortals with Cats](https://github.com/jpalmerr/FpForMortals)| [FP book](https://leanpub.com/fpmortals-cats)  | Scala, Cats, Mouse, Simulacrum | - |
 | [Scala Shop](https://github.com/jpalmerr/shop) | Checkout Kata in Scala | Scala | Scala Test|
 | [Circe Exercises](https://github.com/jpalmerr/CirceExercises) | Completed Scala exercises for Circe | Scala, Circe, Monocle | - |
 | [AI Pictionary](https://github.com/jpalmerr/ajak-final-project)| An AI trained using neural networks to recognise a user's doodle and return a prediction, deployed [here](https://ajak-doodler.herokuapp.com/) | Python, SKlearn, TensorFlow, Keras, Javascript, jQuery, Flask, Travis, Heroku| Pytest, Capybara, Splinter|
-| [Project Euler](https://github.com/jpalmerr/Euler) | [Project Euler](https://projecteuler.net/archives) exercises | Scala | Scala Test|
 | [MAS3807 Project](https://www.slideshare.net/slideshow/embed_code/key/eY4WwFEd23HUkZ)| Assessed University Project on the effectiveness of differential methods | Fortran| Recieved a grade of 68.9%|
 
 ###### Areas of Personal Interest
