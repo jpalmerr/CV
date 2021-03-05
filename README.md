@@ -23,6 +23,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 - Pure Config
 - ScalaTest
 - Spark
+  - Big data framework
 
 ### Project Tools
 
