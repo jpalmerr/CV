@@ -1,6 +1,6 @@
 # James Palmer
 
-[Functional Programming](#functional-programming) | [Experience](#experience) | [Education](#education) | [Projects](#projects)
+[Functional Programming](#functional-programming) | [Experience](#experience) | [Education](#education) | [Projects](#projects) | [Other Programming](#other-programming) | [Personal](#personal)
  
 I am a Mathematics graduate, who moved into software after finding inspiration in the Computational Modelling section of my course. A functional developer and machine learning enthusiast, I have been working professionally as a back end Scala engineer since August 2019.
 
@@ -72,6 +72,64 @@ After enjoying the Computational Modelling section of my university course, I sp
  
 ## Projects
 
-I engage in multiple projects in my own time, notably working through Scala books. These projects can be found in my [github repos](https://github.com/jpalmerr?tab=repositories). I tend to focus on Cats and any libraries that can help me in my professional work. 
+| **Project Title** | **Description** | **Technologies** | **Testing** |
+| :---:        |     :---:      |      :---:    |     :---:      |
+| [Essential Scala Workshop](https://github.com/jpalmerr/essential-scala-code)| Whilst at ITV, I completed a 3 day workshop hosted by Underscore's Dave Gurnell  | Scala | Scala Test |
+| [Scala with Cats](https://github.com/jpalmerr/ScalaWithCats)| Scala with Cats book  | Scala, Cats | - |
+| [Cats exercises](https://github.com/jpalmerr/scalaExercisesCats)| Completed Scala exercises for Cats  | Scala, Cats | - |
+| [TypeLevel Cats](https://github.com/jpalmerr/TypeLevel)| TypeLevels category theory exercises  | Scala, Cats | - |
+| [Essential Effects](https://github.com/jpalmerr/EssentialEffects) | Working through Cats Effect | Scala, Cats, Cats Effect| - |
+| [FP for Mortals with Cats](https://github.com/jpalmerr/FpForMortals)| [FP book](https://leanpub.com/fpmortals-cats)  | Scala, Cats, Mouse, Simulacrum | - |
+| [Scala Shop](https://github.com/jpalmerr/shop) | Checkout Kata in Scala | Scala | Scala Test|
+| [Circe Exercises](https://github.com/jpalmerr/CirceExercises) | Completed Scala exercises for Circe | Scala, Circe, Monocle | - |
+| [AI Pictionary](https://github.com/jpalmerr/ajak-final-project)| An AI trained using neural networks to recognise a user's doodle and return a prediction, deployed [here](https://ajak-doodler.herokuapp.com/) | Python, SKlearn, TensorFlow, Keras, Javascript, jQuery, Flask, Travis, Heroku| Pytest, Capybara, Splinter|
+| [MAS3807 Project](https://www.slideshare.net/slideshow/embed_code/key/eY4WwFEd23HUkZ)| Assessed University Project on the effectiveness of differential methods | Fortran| Recieved a grade of 68.9%|
 
-A more in depth look at my CV can be found on my github [here](https://github.com/jpalmerr/CV).
+## Other Programming 
+
+#### Languages
+
+- Python
+  - SKlearn (Machine Learning Library)
+- Ruby
+- Matlab
+- RStudio
+
+#### Front end & Frameworks
+
+- JavaScript
+- Sinatra, RackUp
+- CSS, JQuery
+- Flask
+- Rails
+
+#### Databases
+
+- PSQL
+- SQL
+
+## Personal
+ 
+#### Sporting Achievements
+###### Tennis
+ - Yorkshire representative representing u12-16 level.
+ - Competed in County Cup, finishing 4th in the nation.
+ - Invited to and perfomed in national talent evaluation programs.
+###### Soccer
+ - Member of East Riding Representatives (regional) side u13-18
+ - Member of Hull representatives (city) u14-16
+ - East Riding u13s manager. Highlights include a national cup semi final. Responsibilies such as 
+    - Arranging friendly fixtures
+    - Safeguarding children
+    - Submitting result reports
+###### Cricket 
+ - East Yorkshire (county) representative u13-17 
+
+#### Extra Curricular
+ 
+###### Sports Journalism
+  A personal hobby of mine is to write about sport, particularly football. I have written on sites such as SB Nation, and I use my [Medium](https://medium.com/@james6of1).
+###### Football Coaching
+ My role as the football coach of my local county representative side, a team I previously played for, has been a particularly rewarding process. Passing down my personal experience whilst also creating a positive atmosphere has in return taught myself a lot, improving my communication skills and providing experience of working with a range of capabilties and personalities.
+###### Mental and Physical Health
+ Mental health and well-being are topics particularly important to me. I have experimented with a variety of different techniques, with meditation proving very beneficial. I believe in healthy eating, using cooking as a way to unwind, and sport as a way to exercise, socialise and communicate. In addition to this I am a keen runner.
