@@ -98,6 +98,7 @@ Extra Courses:
 
 - Python
   - SKlearn (Machine Learning Library)
+- Java
 - Ruby
 - Matlab
 - RStudio
