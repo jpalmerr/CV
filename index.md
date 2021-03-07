@@ -91,6 +91,7 @@ After enjoying the Computational Modelling section of my university course, I sp
 
 - Python
   - SKlearn (Machine Learning Library)
+- Java
 - Ruby
 - Matlab
 - RStudio
