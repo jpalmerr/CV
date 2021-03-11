@@ -112,18 +112,20 @@ After enjoying the Computational Modelling section of my university course, I sp
 ## Personal
  
 #### Sporting Achievements
-###### Tennis
+Tennis
  - Yorkshire representative representing u12-16 level.
  - Competed in County Cup, finishing 4th in the nation.
  - Invited to and perfomed in national talent evaluation programs.
-###### Soccer
+
+Soccer
  - Member of East Riding Representatives (regional) side u13-18
  - Member of Hull representatives (city) u14-16
  - East Riding u13s manager. Highlights include a national cup semi final. Responsibilies such as 
     - Arranging friendly fixtures
     - Safeguarding children
     - Submitting result reports
-###### Cricket 
+
+Cricket 
  - East Yorkshire (county) representative u13-17 
 
 #### Extra Curricular
