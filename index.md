@@ -41,7 +41,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 #### ITV (08/19 - present)
 
-My first project at ITV was to deliver a new svg image rendering microservice for the Hub, whilst also providing a UI for internal use. The stack included Elm, bleeding edge scala library, ZIO and Rabbit MQ.
+My first project at ITV was to deliver a new svg image rendering microservice for the Hub, whilst also providing a UI for internal use. The stack included Elm, bleeding edge scala library ZIO and Rabbit MQ.
 
 After 5 months, I moved to the SVOD team.
 Here I was part of a small team that delivered a new subscription package using Stripe and implemented a number of third party billing integrations.
