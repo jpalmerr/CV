@@ -28,6 +28,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 ### Project Tools
 
 - AWS
+- Docker
 - Stripe
 - PSQL
 - Kafka
