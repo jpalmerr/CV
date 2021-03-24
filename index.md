@@ -20,6 +20,8 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
   - JSON library
 - Doobies
   - Functional Database Layer
+- FS2
+  - Functional Streams for Scala  
 - Pure Config
 - ScalaTest
 - Spark
