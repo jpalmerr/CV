@@ -41,7 +41,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 ## Experience 
 
-#### ITV (08/19 - present)
+#### ITV, Junior (08/19 - 04/21), Core (04/21 - Present)
 
 My first project at ITV was to deliver a new svg image rendering microservice for the Hub, whilst also providing a UI for internal use. The stack included Elm, bleeding edge scala library ZIO and Rabbit MQ.
 
@@ -50,6 +50,8 @@ Here I was part of a small team that delivered a new subscription package using 
 I also worked within our image stack, integrating services using Apache Kafka.
 
 Whilst at ITV, I received training. This included completing a 3 day workshop with Underscore's Dave Gurnell.
+
+After 20 months I was promoted to Core Scala Engineer.
 
 ## Education
 
