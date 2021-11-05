@@ -43,11 +43,11 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 #### ITV, Junior (08/19 - 04/21), Core (04/21 - Present)
 
-My first project at ITV was to deliver a new svg image rendering microservice. The stack included Elm, bleeding edge scala library ZIO, AWS S3 and Rabbit MQ.
+Upon joining ITV, I worked on a new image rendering microservice for the Hub. The stack included Elm and bleeding edge scala library ZIO, both new to me at the time.
 
 After 5 months, I moved to the SVOD team.
-Here I was part of a small team that delivered a new subscription package using Stripe and implemented a number of third party billing integrations.
-I also worked within our image and content stack, integrating services using Apache Kafka.
+Here I was part of a small team that delivered new subscription packages and implemented a number of third party billing integrations.
+I then worked within our image and content stack, integrating services using Apache Kafka.
 
 Whilst at ITV, I received training. This included completing a 3 day workshop with Underscore's Dave Gurnell.
 
@@ -127,4 +127,3 @@ Extra Courses:
 
 - PSQL
 - SQL
- 
