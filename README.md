@@ -51,7 +51,7 @@ I then worked within our image and content stack, integrating services using Apa
 
 Whilst at ITV, I received training. This included completing a 3 day workshop with Underscore's Dave Gurnell.
 
-After 20 months I was promoted to Core Scala Engineer. Whilst continuing to contribute to our apis, my role extended to helping design microservice architecture and supporting fellow engineers. I also engaged in the out of hours on call process. 
+After 20 months I was promoted to Core Scala Engineer. My focus switched to our content api's, again engaging with 3rd parties. My role extended to helping design microservice architecture and supporting fellow engineers. I also engaged in the out of hours on call process. 
 
 ## Education
 
