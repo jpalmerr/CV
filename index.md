@@ -74,7 +74,7 @@ After enjoying the Computational Modelling section of my university course, I sp
 ###### AS Levels
 - Sport Studies
  
-## Projects
+## Projects 
 
 ### Scala
 
