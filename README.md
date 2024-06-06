@@ -30,6 +30,9 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 ### Project Tools
 
 - AWS
+  - S3
+  - Cloudfront
+  - Lambda
 - Docker
 - Rabbit MQ
 - Kafka
