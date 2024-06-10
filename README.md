@@ -144,6 +144,7 @@ Extra Courses:
  - [Udacity Course](https://eu.udacity.com/course/intro-to-machine-learning--ud120) to better understand Machine Learning, applying key statistical principles such as Bayes Theorem. 
  - [Coursera Course](https://www.coursera.org/learn/scala-spark-big-data/home/welcome) to learn [Spark](https://github.com/jpalmerr/Spark) in Scala.
  - [Go Course](https://github.com/jpalmerr/GoLand)
+ - [Coursera Course](https://www.coursera.org/learn/machine-learning) for machine learning
 
 | **Project Title** | **Description** | **Technologies** | **Testing** |
 | :---:        |     :---:      |      :---:    |     :---:      |
