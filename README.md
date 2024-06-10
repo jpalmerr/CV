@@ -133,7 +133,7 @@ I am constantly taking advantage of resources to improve my technical skills and
 | [Essential Effects](https://github.com/jpalmerr/EssentialEffects) | Cats Effect thorough guide| Scala, Cats, Cats Effect| - |
 | [FP for Mortals with Cats](https://github.com/jpalmerr/FpForMortals)| [FP book](https://leanpub.com/fpmortals-cats)  | Scala, Cats, Mouse, Simulacrum | - |
 | [Circe Exercises](https://github.com/jpalmerr/CirceExercises) | Completed Scala exercises for Circe | Scala, Circe, Monocle | - |
-| [FS2 Course](https://github.com/jpalmerr/FS2Udemy) | Completed FS2 Streams course | - |
+| [FS2 Course](https://github.com/jpalmerr/FS2Udemy) | Completed FS2 Streams course | Scala, Cats Effect, FS2 |
 
 
 #### Areas of Personal Interest
