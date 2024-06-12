@@ -134,6 +134,8 @@ I am constantly taking advantage of resources to improve my technical skills and
 | [FP for Mortals with Cats](https://github.com/jpalmerr/FpForMortals)| [FP book](https://leanpub.com/fpmortals-cats)  | Scala, Cats, Mouse, Simulacrum | - |
 | [Circe Exercises](https://github.com/jpalmerr/CirceExercises) | Completed Scala exercises for Circe | Scala, Circe, Monocle | - |
 | [FS2 Course](https://github.com/jpalmerr/FS2Udemy) | Completed FS2 Streams course | Scala, Cats Effect, FS2 |
+| [FS2 Queuing System](https://github.com/jpalmerr/FS2Udemy/tree/main/src/main/scala/scrapbook/queuingApi) | Personal project: queuing mechanism using FS2 and Cats.Ref | Scala, Cats Effect, FS2 |
+| [Go: Decode an api](https://github.com/jpalmerr/GoLand/blob/main/jamesScrapbook/apiCall.go) | Go program that decodes an api and applies some logic | GoLang |
 
 
 #### Areas of Personal Interest
