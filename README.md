@@ -44,7 +44,11 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 ## Experience 
 
-#### ITV, Junior (08/19 - 04/21), Core (04/21 - Present)
+#### ITV, Software Engineer
+
+After a secondment and interview process, I made an internal move to the Video department within ITV. Here my role involves software development in both Go and Scala. We work on the edge of the application, delivering live streaming capability to the customer. In this department, I am the sole Scala engineer as part of a wider cross functional team. A large part of responsibility involves working with an architecht and a lead, to design a new system for our ad replacement, a project contributing millions of pounds in revenue. This is whilst maintaining and tweaking functionality in our wider estate. 
+
+#### ITV, Junior (08/19 - 04/21), Core (04/21 - 08/24)
 
 My role extended to microservice architecture and supporting fellow engineers. I initially worked on our content third party streaming integrations, helping to design Aggregate - Transform - Load  solutions with said third parties.
 We delivered new functionality for Britbox in line with our product team requirements, including promotional video content  which could be uploaded from our CMS system.
