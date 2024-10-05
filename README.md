@@ -44,7 +44,7 @@ I am a Mathematics graduate, who moved into software after finding inspiration i
 
 ## Experience 
 
-#### ITV, Software Engineer
+#### ITV, Software Engineer (08/24 - present)
 
 After a secondment and interview process, I made an internal move to the Video department within ITV. Here my role involves software development in both Go and Scala. We work on the edge of the application, delivering live streaming capability to the customer. In this department, I am the sole Scala engineer as part of a wider cross functional team. A large part of responsibility involves working with an architecht and a lead, to design a new system for our ad replacement, a project contributing millions of pounds in revenue. This is whilst maintaining and tweaking functionality in our wider estate. 
 
