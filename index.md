@@ -51,4 +51,7 @@ A lightweight, embeddable Go library that provides real-time health status dashb
 
 ## Certifications
 
-- Confluent Certified Data Streaming Engineer
+- Confluent Certified Data Streaming Engineer. [Cert](https://certificates.confluent.io/c97baea8-0c3e-4f44-a9ca-5474563f99f3#acc.aW39Ubq6)
+- Standford University, Deep Learning AI, Machine Learning Specialization
+  - Regression and Classification. [Cert](https://coursera.org/share/bb60c9d91333482c00f9ea9493ff168b)
+  - Advanced Learning Algorithms. [Cert](https://coursera.org/share/35ee8aa7964b1cf6df563f3181b54233)
