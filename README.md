@@ -49,6 +49,12 @@ A lightweight, embeddable Go library that provides real-time health status dashb
 
 **Technologies:** Go 1.23, GitHub Actions CI, Docker, GoReleaser
 
+### composable-errors (Scala)
+
+[github.com/jpalmerr/composable-errors](https://github.com/jpalmerr/composable-errors)
+
+A research project exploring whether Scala 3 union types can replace sealed trait hierarchies for error handling. Built around an opaque type wrapper where flatMap automatically widens the error union at compile time. Includes write up [here](https://gist.github.com/jpalmerr/f8685eae583a6ee7a59ef78643ce2a83).
+
 ### Hedgehog (Python)
 
   [github.com/jpalmerr/Hedgehog](https://github.com/jpalmerr/Hedgehog)
