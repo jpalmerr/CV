@@ -49,6 +49,21 @@ A lightweight, embeddable Go library that provides real-time health status dashb
 
 **Technologies:** Go 1.23, GitHub Actions CI, Docker, GoReleaser
 
+### Hedgehog (Python)
+
+  [github.com/jpalmerr/Hedgehog](https://github.com/jpalmerr/Hedgehog)
+
+  A Model Context Protocol (MCP) server that provides structured spike investigations with enforced phase
+  transitions and automatic ADR generation. Built to bring rigour to technical decision-making within AI
+  coding assistants like Claude Code.
+
+  - Enforced 4-phase workflow: meta-design, divergent exploration, adversarial challenge, synthesis
+  - State machine core with checkpoint/rollback for multi-session investigations
+  - 15 MCP tools and 6 resource endpoints
+  - Persistent file-backed state with atomic writes and file locking
+
+  Technologies: Python 3.11, MCP SDK, Pydantic v2, Jinja2, pytest, mypy (strict), ruff
+
 ## Certifications
 
 - Confluent Certified Data Streaming Engineer. [Cert](https://certificates.confluent.io/c97baea8-0c3e-4f44-a9ca-5474563f99f3#acc.aW39Ubq6)
