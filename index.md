@@ -6,9 +6,9 @@ I am a Mathematics graduate who moved into software after finding inspiration in
 
 ## Experience 
 
-#### Conduktor, Software Engineer (04/25 - present)
+#### Conduktor, Senior Software Engineer (02/26 - present), Software Engineer (04/25 - 02/26)
 
-Software engineer, primarily working in Scala and Java services.
+Software engineer, working on a Kafka proxy solution. Primarily working in Java and Scala. 
 
 #### ITV, Software Engineer (08/24 - 04/25)
 
